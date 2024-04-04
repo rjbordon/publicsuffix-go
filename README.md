@@ -8,7 +8,7 @@ The package <tt>publicsuffix</tt> provides a Go domain name parser based on the 
 Currently, **publicsuffix-go requires Go version 1.9 or greater**. We do our best not to break older versions of Go if we don't have to, but due to tooling constraints, we don't always test older versions.
 
 
-## Getting started
+## Getting started2
 
 Clone the repository [in your workspace](https://golang.org/doc/code.html#Organization) and move into it:
 
